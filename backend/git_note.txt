@@ -1,0 +1,3 @@
+'backend/package-lock.json', LF will be replaced by CRLF the next time Git touches it
+'backend/package.json', LF will be replaced by CRLF the next time Git touches it
+LF is the line endings on a Linux distro. CRLF is the line endings on a Windows OS. CR is the line endings for Mac (IIRC).
