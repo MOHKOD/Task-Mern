@@ -1,2 +1,2 @@
 # Task-Mern
-an on going project part of following a MERN Stack project
+an on going project part of learning MERN Stack 
